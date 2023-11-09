@@ -1,2 +1,2 @@
-# REACT-Native-
+# REACT-Native
 Exploring and creating with REACT native
