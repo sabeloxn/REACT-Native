@@ -1,2 +1,2 @@
 # REACT-Native
-Exploring and creating with REACT native
+Mobile app development with REACT native
